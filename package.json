@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-file-log",
+  "version": "1.0.0",
+  "description": "pipe console.log to files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feifeipan/nodejs-file-log.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "file"
+  ],
+  "author": "feifeipan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feifeipan/nodejs-file-log/issues"
+  },
+  "homepage": "https://github.com/feifeipan/nodejs-file-log#readme",
+  "dependencies": {
+    "fancy-log": "^1.3.2"
+  }
+}
