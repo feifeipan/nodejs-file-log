@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-file-log",
+  "name": "console-file-log",
   "version": "1.0.0",
   "description": "pipe console.log to files",
   "main": "index.js",

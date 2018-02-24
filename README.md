@@ -1,4 +1,4 @@
-# file-log
+# console-file-log
 
 Save console.log content to a file. Use [fancy-log](https://www.npmjs.com/package/fancy-log) to do console and save the same content to a file.
 
@@ -7,7 +7,7 @@ I use it in a child_process spawn or fork case. When the main process ended, the
 ## Usage
 
 ```js
-var filelog = require("file-log");
+var filelog = require("console-file-log");
 
 var mylog = filelog({
 	append: true,    	//appendFile or writeFile (default: false)
